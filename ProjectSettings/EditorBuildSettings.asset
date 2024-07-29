@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/_Scenes/Lab-02-Hands and Controllers.unity
     guid: e21ad5cfa69e5bc4a8a701d8adabd243
   - enabled: 1
-    path: Assets/_Scenes/Lab-03-Interactables.unity
+    path: Assets/_Scenes/Lab-03-04-Interactables.unity
     guid: ae228ad148500d0409057f915338e20e
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2d7ea5527c4147d42a2b5a92b78f59db,
