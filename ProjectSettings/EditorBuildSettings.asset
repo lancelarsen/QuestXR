@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_Scenes/Lab-01-Setup.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/Lab-02-Hands and Controllers.unity
     guid: e21ad5cfa69e5bc4a8a701d8adabd243
+  - enabled: 1
+    path: Assets/_Scenes/Lab-03-Interactables.unity
+    guid: ae228ad148500d0409057f915338e20e
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2d7ea5527c4147d42a2b5a92b78f59db,
       type: 2}
